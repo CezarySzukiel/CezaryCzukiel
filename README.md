@@ -12,16 +12,16 @@
 
 ### Technologies I use
 
-<img align="left" alt="python" src="https://img.shields.io/badge/python-3776AB?&style=for-the-badge&logo=python&logoColor=yellow" style="margin: 0 10px 5px 0;" />
-<img align="left" alt="django" src="https://img.shields.io/badge/django-092E20?&style=for-the-badge&logo=django&logoColor=white" style="margin: 0 10px 5px 0;" />
-<img align="left" alt="postgres" src="https://img.shields.io/badge/Postgres-4169E1?&style=for-the-badge&logo=PostgreSQL&logoColor=white" style="margin: 0 10px 5px 0;" />
-<img align="left" alt="sqlite" src="https://img.shields.io/badge/sqlite-003B57?&style=for-the-badge&logo=sqlite&logoColor=white" style="margin: 0 10px 5px 0;" />
-<img align="left" alt="html" src="https://img.shields.io/badge/html-E34F26?&style=for-the-badge&logo=html5&logoColor=white" style="margin: 0 10px 5px 0;" />
-<img align="left" alt="css" src="https://img.shields.io/badge/css-1572B6?&style=for-the-badge&logo=css3&logoColor=white" style="margin: 0 10px 5px 0;" />
-<img align="left" alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" style="margin: 0 10px 5px 0;" />
-<img align="left" alt="react" src="https://img.shields.io/badge/react-61DAFB?&style=for-the-badge&logo=react&logoColor=black" style="margin: 0 10px 5px 0;" />
-<img align="left" alt="redux" src="https://img.shields.io/badge/redux-764ABC?&style=for-the-badge&logo=redux&logoColor=white" style="margin: 0 10px 5px 0;" />
-<img align="left" alt="docker" src="https://img.shields.io/badge/docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" style="margin: 0 10px 5px 0;" /><br>
+<img align="left" alt="python" src="https://img.shields.io/badge/python-3776AB?&style=for-the-badge&logo=python&logoColor=yellow" style="margin: 5px 10px 5px 0;" />
+<img align="left" alt="django" src="https://img.shields.io/badge/django-092E20?&style=for-the-badge&logo=django&logoColor=white" style="margin: 5px 10px 5px 0;" />
+<img align="left" alt="postgres" src="https://img.shields.io/badge/Postgres-4169E1?&style=for-the-badge&logo=PostgreSQL&logoColor=white" style="margin: 5px 10px 5px 0;" />
+<img align="left" alt="sqlite" src="https://img.shields.io/badge/sqlite-003B57?&style=for-the-badge&logo=sqlite&logoColor=white" style="margin: 5px 10px 5px 0;" />
+<img align="left" alt="html" src="https://img.shields.io/badge/html-E34F26?&style=for-the-badge&logo=html5&logoColor=white" style="margin: 5px 10px 5px 0;" />
+<img align="left" alt="css" src="https://img.shields.io/badge/css-1572B6?&style=for-the-badge&logo=css3&logoColor=white" style="margin: 5px 10px 5px 0;" />
+<img align="left" alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" style="margin: 5px 10px 5px 0;" />
+<img align="left" alt="react" src="https://img.shields.io/badge/react-61DAFB?&style=for-the-badge&logo=react&logoColor=black" style="margin: 5px 10px 5px 0;" />
+<img align="left" alt="redux" src="https://img.shields.io/badge/redux-764ABC?&style=for-the-badge&logo=redux&logoColor=white" style="margin: 5px 10px 5px 0;" />
+<img align="left" alt="docker" src="https://img.shields.io/badge/docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" style="margin: 5px 10px 5px 0;" /><br>
 
 <br>
 
